@@ -13,7 +13,7 @@ empowher-angular program is designed for angular training.
 
 # Angular setup/installation steps
   **1. Install Node.js** (version 16.20.x)\
-    	&nbsp;&nbsp;Download and install it from https://nodejs.org/en/download/releases\
+    	&nbsp;&nbsp;Download and install it from https://nodejs.org/en/download/releases \
       The installation is pretty straightforward and simple to follow. Along with NodeJS, is installed NPM - the Node Package Manager. 
       NPM is used to manage all the node packages on a system or within a project. Now that you have downloaded and installed NodeJS (which also 		 
   		installed NPM).\
